@@ -1,2 +1,2 @@
 # Similarity_rate
-Benzerlik bulma 
+Calculate similarity rate between sentences with Python
